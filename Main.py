@@ -27,7 +27,7 @@ while True:
         stock = check_stock()
 
         if stock and not already_sent:
-            send_telegram("🔥 M size is BACK IN STOCK!")
+            send_telegram("✅ TEST: Bot is working perfectly")
             already_sent = True
 
         elif not stock:
