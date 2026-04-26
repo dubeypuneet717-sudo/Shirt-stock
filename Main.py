@@ -2,7 +2,7 @@ import requests
 import time
 
 BOT_TOKEN = "8656964634:AAHQE8gxmCgNfIdqOwyrF7GhQSXeVWuznyQ"
-CHAT_ID = "8656964634"
+CHAT_ID = "290306089"
 
 URL = "https://tigc.in/products/mens-pink-slim-fit-vertical-striped-casual-shirt-1224-shlnyd-01-03-pink.js"
 TARGET_VARIANT = 50243521937624 # M size
